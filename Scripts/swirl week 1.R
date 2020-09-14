@@ -1,0 +1,5 @@
+getwd()
+setwd("C:/Users/Tanya Kamesh/Documents/R/win-library/4.0")
+install.packages("swirl")
+packageVersion("swirl")
+library(swirl)
